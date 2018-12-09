@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="recipe_page_title">Mixed Fruit Pancakes Recipe</string>
+    <string name="card_1_highlight">20 min</string>
+    <string name="card_2_highlight">Medium</string>
+    <string name="card_3_highlight">12</string>
+    <string name="card_4_highlight">200g</string>
+    <string name="btn_shopping_list">Shopping list</string>
+    <string name="card_1_normal">Cooking Time</string>
+    <string name="card_2_normal">Difficulty</string>
+    <string name="card_3_normal">Ingredients</string>
+    <string name="card_4_normal">Per serving</string>
+    <string name="search_bar_hint">Search recipes ...</string>
+    <string name="search_popular_keywords_title">Popular Keywords</string>
+    <string name="popular_keyword_1">\"breakfast\"</string>
+    <string name="popular_keyword_2">\"avocado salad\"</string>
+    <string name="popular_keyword_3">\"italian food\"</string>
+    <string name="popular_keyword_4">\"dinner\"</string>
+    <string name="popular_keyword_5">\"chinese recipe\"</string>
+    <string name="popular_keyword_6">\"blueberry\"</string>
+    <string name="search_popular_recipe_title">Popular Recipe</string>
+    <string name="recipe_1_title">Chicken Tika Masala</string>
+    <string name="recipe_1_description">If there\'s one dish guranteed to be on...</string>
+    <string name="search_like_number_recipe_1">220</string>
+    <string name="recipe_2_title">Swordfish Steaks</string>
+    <string name="recipe_2_description">Prepare grill for medium-high heat oil...</string>
+    <string name="recipe_3_description">If one pasta dish exemplifies the comp...</string>
+    <string name="search_like_number_recipe_2">342</string>
+    <string name="search_like_number_recipe_3">156</string>
+    <string name="recipe_3_title">Cacio e Pepe Pasta</string>
+</resources>
